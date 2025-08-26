@@ -9,15 +9,14 @@
 📚 Passionate about writing clean, scalable, and maintainable code  
 🌍 Exploring cloud services (AWS, Docker, Jenkins) and modern frontend practices  
 📂 Sharing my projects, solutions, and learnings here on GitHub  
------
+
+---
 ## 📫 Contact Me
 
 - 📧 Email: [asheeshkumar859@yahoo.com](mailto:asheeshkumar859@yahoo.com)  
 - 💼 LinkedIn: [linkedin.com/in/asheesh859](https://linkedin.com/in/asheesh859)  
-- 🐙 GitHub: [github.com/asheesh859](https://github.com/asheesh859)
-  
+- 🐙 GitHub: [github.com/asheesh859](https://github.com/asheesh859)  
 ---
-
 ## 🚀 Tech Stack
 
 ### 🔹 Backend
@@ -55,7 +54,7 @@
 ### My GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=asheesh859&show_icons=true&theme=radical)
 
+
 ---
 
 ✨ _“Code. Debug. Learn. Repeat.”_  
-
