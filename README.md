@@ -1,6 +1,6 @@
 # Hi, I'm Asheesh Kumar ✨
 
-💻 Full Stack Java Developer with 3.4+ years of experience  
+💻 Full Stack Java Developer with 4+ years of experience  
 🚀 Specialized in **Java, Spring Boot, REST APIs, and Microservices**  
 🎯 Skilled in building **Angular-based Frontend Applications** integrated with secure backends  
 ✨ Experienced in designing **responsive UIs** using Angular, TypeScript, HTML, and CSS  
